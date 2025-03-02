@@ -1,7 +1,8 @@
 import tldextract
 import Levenshtein  as lv
 
-legit_links = ['example.com', 'google.com', 'facebook.com']
+legit_links = ['google.com', 'facebook.com', 'youtube.com', 'amazon.com', 'wikipedia.org', 'twitter.com', 'instagram.com', 'linkedin.com', 'reddit.com', 'pinterest.com', 'netflix.com', 'ebay.com', 'microsoft.com', 'apple.com', 'adobe.com', 'wordpress.com', 'tumblr.com', 'flickr.com', 'dropbox.com', 'paypal.com', 'spotify.com', 'quora.com', 'stackoverflow.com', 'github.com', 'medium.com', 'nytimes.com', 'bbc.com', 'cnn.com', 'forbes.com', 'bloomberg.com', 'huffpost.com', 'theguardian.com', 'washingtonpost.com' 'nbcnews.com', 'abcnews.go.com']
+
 
 scan_links = ['you.be']
 
